@@ -1,0 +1,13 @@
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# nbgrader
+.nbgrader.log
+
+.vscode
+
+# temp folder
+# scratch-book/*
+# data/*
